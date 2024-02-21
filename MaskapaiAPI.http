@@ -1,0 +1,6 @@
+@MaskapaiAPI_HostAddress = http://localhost:5117
+
+GET {{MaskapaiAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
